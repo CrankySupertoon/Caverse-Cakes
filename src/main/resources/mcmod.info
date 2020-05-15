@@ -1,13 +1,13 @@
 [
 {
   "modid": "dimensionaledibles",
-  "name": "Dimensional Edibles",
+  "name": "Caverse Cakes",
   "description": "Travel through dimensions with food!",
-  "version": "1.3",
+  "version": "1.0.0",
   "mcversion": "1.12.2",
   "url": "https://github.com/JackyyTV/DimensionalEdibles",
   "updateUrl": "",
-  "authorList": ["Jackyy", "Turkey2349"],
+  "authorList": ["Jackyy", "Turkey2349", "CrankySupertoon"],
   "credits": "",
   "logoFile": "assets/dimensionaledibles/logo.png",
   "screenshots": [],

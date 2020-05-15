@@ -14,7 +14,7 @@ public class TileDimensionCake extends TileEntity {
     private String cakeName;
 
     public TileDimensionCake() {
-        this(0, "Overworld");
+        this(0, "Underworld");
     }
 
     public TileDimensionCake(int dimID, String name) {
