@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "caversecakes:items/overworld_apple"
+    "layer0": "caversecakes:items/underworld_apple"
   }
 }

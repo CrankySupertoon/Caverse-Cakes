@@ -1,5 +1,5 @@
 {
-  "parent": "caversecakes:block/overworld_cake/overworld_cake_full",
+  "parent": "caversecakes:block/underworld_cake/underworld_cake_full",
   "display": {
     "ground": {
       "rotation": [ 0, 0, 0 ],

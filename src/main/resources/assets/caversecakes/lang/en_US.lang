@@ -7,11 +7,12 @@ item.caversecakes.nether_apple.name=Nether Apple
 item.caversecakes.overworld_apple.name=Overworld Apple
 item.caversecakes.custom_apple.name=Custom Apple
 item.caversecakes.twilight_apple.name=Twilight Apple
-item.caversecakes.overworld_apple.name=Mining Apple
+item.caversecakes.underworld_apple.name=Underworld Apple
+item.caversecakes.overworld_apple.name=Overworld Apple
 item.caversecakes.void_apple.name=Void Apple
 item.caversecakes.erebus_apple.name=Erebus Apple
 item.caversecakes.hunting_apple.name=Hunting Apple
-item.caversecakes.aether_apple.name=Lost Cities Apple
+item.caversecakes.aether_apple.name=Aether Apple
 
 #Blocks
 tile.caversecakes.end_cake.name=End Cake
@@ -19,33 +20,33 @@ tile.caversecakes.nether_cake.name=Nether Cake
 tile.caversecakes.overworld_cake.name=Overworld Cake
 tile.caversecakes.custom_cake.name=Custom Cake
 tile.caversecakes.twilight_cake.name=Twilight Cake
-tile.caversecakes.overworld_cake.name=Mining Cake
+tile.caversecakes.underworld_cake.name=Underworld Cake
 tile.caversecakes.erebus_cake.name=Erebus Cake
 tile.caversecakes.void_cake.name=Void Cake
 tile.caversecakes.hunting_cake.name=Hunting Cake
-tile.caversecakes.aether_cake.name=Lost Cities Cake
+tile.caversecakes.aether_cake.name=Aether Cake
 
 #JEI Compat Cake Descriptions
 caversecakes.end_cake.jeidesc=Place the cake down and fill it with %d, then right click on the cake and you'll be teleported to The End. The cake has infinite uses as long as it is fueled.
 caversecakes.nether_cake.jeidesc=Place the cake down and fill it with %d, then right click on the cake and you'll be teleported to the Nether. The cake has infinite uses as long as it is fueled.
 caversecakes.overworld_cake.jeidesc=Place the cake down and fill it with %d, then right click on the cake and you'll be teleported to the Overworld. The cake has infinite uses as long as it is fueled.
 caversecakes.twilight_cake.jeidesc=Place the cake down and fill it with %d, then right click on the cake and you'll be teleported to the Twilight Forest. The cake has infinite uses as long as it is fueled.
-caversecakes.overworld_cake.jeidesc=Place the cake down and fill it with %d, then right click on the cake and you'll be teleported to the Mining Dimension. The cake has infinite uses as long as it is fueled.
-caversecakes.erebus_cake.jeidesc=Place the cake down and fill it with %d, then right click on the cake and you'll be teleported to the Erebus (Bug) Dimension. The cake has infinite uses as long as it is fueled.
+caversecakes.underworld_cake.jeidesc=Place the cake down and fill it with %d, then right click on the cake and you'll be teleported to the Underworld Dimension. The cake has infinite uses as long as it is fueled.
+caversecakes.erebus_cake.jeidesc=Place the cake down and fill it with %d, then right click on the cake and you'll be teleported to The Erebus. The cake has infinite uses as long as it is fueled.
 caversecakes.void_cake.jeidesc=Place the cake down and fill it with %d, then right click on the cake and you'll be teleported to the Void Dimension. The cake has infinite uses as long as it is fueled.
 caversecakes.hunting_cake.jeidesc=Place the cake down and fill it with %d, then right click on the cake and you'll be teleported to the Hunting Dimension. The cake has infinite uses as long as it is fueled.
-caversecakes.aether_cake.jeidesc=Place the cake down and fill it with %d, then right click on the cake and you'll be teleported to the Lost Cities Dimension. The cake has infinite uses as long as it is fueled.
+caversecakes.aether_cake.jeidesc=Place the cake down and fill it with %d, then right click on the cake and you'll be teleported to The Aether. The cake has infinite uses as long as it is fueled.
 
 #JEI Compat Apple Descriptions
 caversecakes.ender_apple.jeidesc=Eat the apple and you'll be teleported to The End. Single-use only.
-caversecakes.nether_apple.jeidesc=Eat the apple and you'll be teleported to the Nether. Single-use only.
-caversecakes.overworld_apple.jeidesc=Eat the apple and you'll be teleported to the Overworld. Single-use only.
-caversecakes.twilight_apple.jeidesc=Eat the apple and you'll be teleported to the Twilight Forest. Single-use only.
-caversecakes.overworld_apple.jeidesc=Eat the apple and you'll be teleported to the Mining Dimension. Single-use only.
-caversecakes.erebus_apple.jeidesc=Eat the apple and you'll be teleported to the Erebus (Bug) Dimension. Single-use only.
+caversecakes.nether_apple.jeidesc=Eat the apple and you'll be teleported to The Nether. Single-use only.
+caversecakes.overworld_apple.jeidesc=Eat the apple and you'll be teleported to The Overworld. Single-use only.
+caversecakes.twilight_apple.jeidesc=Eat the apple and you'll be teleported to The Twilight Forest. Single-use only.
+caversecakes.underworld_apple.jeidesc=Eat the apple and you'll be teleported to the The Underworld. Single-use only.
+caversecakes.erebus_apple.jeidesc=Eat the apple and you'll be teleported to the The Erebus. Single-use only.
 caversecakes.void_apple.jeidesc=Eat the apple and you'll be teleported to the Void Dimension. Single-use only.
 caversecakes.hunting_apple.jeidesc=Eat the apple and you'll be teleported to the Hunting Dimension. Single-use only.
-caversecakes.aether_apple.jeidesc=Eat the apple and you'll be teleported to the Lost Cities Dimension. Single-use only.
+caversecakes.aether_apple.jeidesc=Eat the apple and you'll be teleported to The Aether. Single-use only.
 
 #Error Messages
 caversecakes.error.end_portal_disabled=§cActivation of the End Portal has been disabled! Please use the End Cake instead!
