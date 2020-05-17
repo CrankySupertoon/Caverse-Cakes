@@ -1,0 +1,10 @@
+{
+	"parent": "block/cake_slice1",
+	"textures": {
+		"particle": "caversecakes:blocks/overworld_cake/overworld_cake_2",
+		"bottom": "caversecakes:blocks/overworld_cake/overworld_cake_0",
+		"top": "caversecakes:blocks/overworld_cake/overworld_cake_1",
+		"side": "caversecakes:blocks/overworld_cake/overworld_cake_2",
+		"inside": "caversecakes:blocks/overworld_cake/overworld_cake_3"
+	}
+}

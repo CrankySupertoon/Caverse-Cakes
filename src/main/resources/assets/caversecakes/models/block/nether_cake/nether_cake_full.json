@@ -1,0 +1,9 @@
+{
+	"parent": "block/cake_uneaten",
+	"textures": {
+        "particle": "caversecakes:blocks/nether_cake/nether_cake_2",
+        "bottom": "caversecakes:blocks/nether_cake/nether_cake_0",
+        "top": "caversecakes:blocks/nether_cake/nether_cake_1",
+        "side": "caversecakes:blocks/nether_cake/nether_cake_2"
+    }
+}

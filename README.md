@@ -1,43 +1,40 @@
-# DimensionalEdibles
-[![Downloads](http://cf.way2muchnoise.eu/full_dimensional-edibles_downloads.svg)](https://minecraft.curseforge.com/projects/dimensional-edibles) [![MCVersion](http://cf.way2muchnoise.eu/versions/dimensional-edibles.svg)](https://minecraft.curseforge.com/projects/dimensional-edibles)
+# Caverse Cakes [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
 
-[![GitHub issues](https://img.shields.io/github/issues/JackyyTV/DimensionalEdibles.svg)](https://github.com/JackyyTV/DimensionalEdibles/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/JackyyTV/DimensionalEdibles.svg)](https://github.com/JackyyTV/DimensionalEdibles/pulls) [![license](https://img.shields.io/github/license/JackyyTV/DimensionalEdibles.svg)](../dev-1.12.2/LICENSE)
 
----
+**Caverse Cakes** adds cakes for the Caverse Modpack
 
-## About
 
-This is the GitHub repo for the Dimensional Edibles Minecraft mod, where the source code and issue tracker are in here.
+## 🚀 Getting Started
+Below you will find anything you need to know. If you want to download a build you can do it via CurseForge. 
 
-Submit any bug reports / suggestions via [issue tracker](https://github.com/JackyyTV/DimensionalEdibles/issues).
+## 📝 Features
 
-[Pull requests](https://github.com/JackyyTV/DimensionalEdibles/pulls) are welcome if you would like to add features / help with bug fixes or translations.
+- Cakes for Dimensions in the Caverse Modpack
 
----
+## ⚙️ Dependencies 
+Bill of Materials depends on [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 
-## Contact Me
+## ⬇️ Downloads
+Latest: [Can be found here](https://www.curseforge.com/minecraft/mc-mods/caverse-cakes/files)
 
-- Twitter - [@JackyyTV](https://twitter.com/JackyyTV)
-- Discord - Jacky#1234
-- Twitch - [Jackyy](https://www.twitch.tv/jackyy)
-- Reddit - [JackyyTV](https://www.reddit.com/message/compose/?to=JackyyTV)
+## 📦 Modpacks
+* Sure, provide a link to this github or [here](https://www.curseforge.com/minecraft/mc-mods/caverse-cakes).
 
----
+## 🗝 Built and managed with 
 
-## Setting up workspace / compile the mod yourself
+* [Github](http://www.github.com/) - Git Service
+* [IntellIJ IDEA 2020.2](https://www.jetbrains.com/idea/download/) - IDE
+* [Minecraft Forge](https://files.minecraftforge.net/) - Modding Tool
+* [Minecraft](https://www.minecraft.net/) - Engine
 
-If you would like to set up the workspace yourself to submit PRs of features additions or bug fixes, or compile the mod, here's how you do it.
 
-1. Clone the mod.
-    - HTTPS: `git clone https://github.com/JackyyTV/DimensionalEdibles.git`
-    - SSH: `git clone git@github.com:JackyyTV/DimensionalEdibles.git`
-    - Or, use the GitHub desktop app to clone the repo via GUI interface.
+## 🎓 License
 
-2. Setting up the workspace, depending on what you need.
-    - Decompiled source: `gradlew setupDecompWorkspace`
-    - Obfuscated source: `gradlew setupDevWorkspace`
-    - CI server: `gradlew setupCIWorkspace`
+This project is licensed under the GNU Lesser GPL v3 License - see the [LICENSE](LICENSE) file for details
 
-3. Either use `gradlew build` to build the jar file (Output is in `build/libs`), or setup the IDE if you are going to modify any codes. Both IntelliJ IDEA and Eclipse are included below since they're more popular IDEs.
-    - IntelliJ IDEA: Do `gradlew idea`, open the `.ipr` file and import the gradle file, then execute the `genIntellijRuns` task in the "Gradle" tab.
-    - Eclipse: Do `gradlew eclipse` and open the directory as project.
+[discordImg]: https://img.shields.io/discord/671902942466408478.svg?logo=discord&logoWidth=18&colorB=7289DA&style=for-the-badge
+[discordLink]: https://discord.gg/F55qYKm
+
+[curseImg]: http://cf.way2muchnoise.eu/383506.svg?badge_style=for_the_badge
+
+[curseLink]: https://www.curseforge.com/minecraft/mc-mods/caverse-cakes

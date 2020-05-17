@@ -1,0 +1,10 @@
+{
+	"parent": "block/cake_slice4",
+	"textures": {
+        "particle": "caversecakes:blocks/twilight_cake/twilight_cake_2",
+        "bottom": "caversecakes:blocks/twilight_cake/twilight_cake_0",
+        "top": "caversecakes:blocks/twilight_cake/twilight_cake_1",
+        "side": "caversecakes:blocks/twilight_cake/twilight_cake_2",
+        "inside": "caversecakes:blocks/twilight_cake/twilight_cake_3"
+    }
+}

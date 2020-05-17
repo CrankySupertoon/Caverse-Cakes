@@ -1,15 +1,15 @@
 [
 {
-  "modid": "dimensionaledibles",
+  "modid": "caversecakes",
   "name": "Caverse Cakes",
-  "description": "Travel through dimensions with food!",
+  "description": "Caversing through the pack",
   "version": "1.0.0",
   "mcversion": "1.12.2",
-  "url": "https://github.com/JackyyTV/DimensionalEdibles",
+  "url": "https://github.com/CrankySupertoon/Caverse-Cakes",
   "updateUrl": "",
   "authorList": ["Jackyy", "Turkey2349", "CrankySupertoon"],
   "credits": "",
-  "logoFile": "assets/dimensionaledibles/logo.png",
+  "logoFile": "assets/caversecakes/logo.png",
   "screenshots": [],
   "dependencies": []
 }

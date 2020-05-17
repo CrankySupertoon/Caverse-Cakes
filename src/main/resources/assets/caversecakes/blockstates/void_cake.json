@@ -1,0 +1,20 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "caversecakes:void_cake/void_cake_full"
+	},
+	"variants": {
+		"bites": {
+			0: { "model": "caversecakes:void_cake/void_cake_full" },
+			1: { "model": "caversecakes:void_cake/void_cake_slice1" },
+			2: { "model": "caversecakes:void_cake/void_cake_slice2" },
+			3: { "model": "caversecakes:void_cake/void_cake_slice3" },
+			4: { "model": "caversecakes:void_cake/void_cake_slice4" },
+			5: { "model": "caversecakes:void_cake/void_cake_slice5" },
+			6: { "model": "caversecakes:void_cake/void_cake_slice6" }
+		},
+		"inventory": {
+			"model": "caversecakes:void_cake"
+		}
+	}
+}

@@ -1,0 +1,20 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "caversecakes:overworld_cake/overworld_cake_full"
+  },
+  "variants": {
+    "bites": {
+      0: { "model": "caversecakes:overworld_cake/overworld_cake_full" },
+      1: { "model": "caversecakes:overworld_cake/overworld_cake_slice1" },
+      2: { "model": "caversecakes:overworld_cake/overworld_cake_slice2" },
+      3: { "model": "caversecakes:overworld_cake/overworld_cake_slice3" },
+      4: { "model": "caversecakes:overworld_cake/overworld_cake_slice4" },
+      5: { "model": "caversecakes:overworld_cake/overworld_cake_slice5" },
+      6: { "model": "caversecakes:overworld_cake/overworld_cake_slice6" }
+    },
+    "inventory": {
+      "model": "caversecakes:overworld_cake"
+    }
+  }
+}

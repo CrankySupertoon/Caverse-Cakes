@@ -1,0 +1,9 @@
+{
+	"parent": "block/cake_uneaten",
+	"textures": {
+        "particle": "caversecakes:blocks/hunting_cake/hunting_cake_2",
+        "bottom": "caversecakes:blocks/hunting_cake/hunting_cake_0",
+        "top": "caversecakes:blocks/hunting_cake/hunting_cake_1",
+        "side": "caversecakes:blocks/hunting_cake/hunting_cake_2"
+    }
+}

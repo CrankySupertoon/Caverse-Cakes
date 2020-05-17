@@ -10,7 +10,7 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle.forge'
 
 version = "${mc_version}-${mod_version}"
-group = "jackyy.dimensionaledibles"
+group = "com.crankysupertoon.caversecakes"
 archivesBaseName = "caversecakes"
 
 sourceCompatibility = targetCompatibility = "1.8"
