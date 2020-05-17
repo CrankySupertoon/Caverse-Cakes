@@ -11,9 +11,6 @@ Below you will find anything you need to know. If you want to download a build y
 
 - Cakes for Dimensions in the Caverse Modpack
 
-## ⚙️ Dependencies 
-Bill of Materials depends on [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
-
 ## ⬇️ Downloads
 Latest: [Can be found here](https://www.curseforge.com/minecraft/mc-mods/caverse-cakes/files)
 
